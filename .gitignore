@@ -1,0 +1,5 @@
+# Build
+build/
+.idea/
+.vscode/
+*.log
