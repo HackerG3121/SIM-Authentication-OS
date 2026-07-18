@@ -1,21 +1,30 @@
-# 📈 Current Progress
+## Day 1 (17/07/2026)
 
-Overall Progress:
-
-```text
-█████░░░░░░░░░░░░░░ 5%
-```
-
-Current Phase:
-
-**Phase 1 – Android Fundamentals**
-
-Current Day:
-
-**Day 1 Completed ✅**
-
-Next Target:
-
-**Day 2 – Android Boot Process**
+- Learned Android Operating System basics
+- Studied Android Open Source Project (AOSP)
+- Studied Linux Kernel fundamentals
+- Learned Android Application Framework
+- Learned Android System Services
+- Studied Hardware Abstraction Layer (HAL)
+- Explored Android Telephony Framework
+- Understood Android Architecture Layers
+- Created Android Architecture Diagram
+- Completed Day 1 handwritten notes
+- Created `research/Day-01-Android-Basics.md`
+- Created `ROADMAP.md`
+- Initialized `CHANGELOG.md`
+- Organized project folder structure
+- Performed first Git commit and GitHub push
 
 ---
+
+## Day 2
+
+- Learned Android Boot Process
+- Studied Boot ROM
+- Studied Bootloader
+- Studied Linux Kernel initialization
+- Learned Init Process
+- Learned Zygote
+- Learned System Server
+- Created Boot Process Diagram
